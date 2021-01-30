@@ -1,7 +1,7 @@
 {
   "name": "rule-validation-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple rule validation API",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
